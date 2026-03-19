@@ -1,0 +1,5 @@
+simple-fix==0.1.1
+pyTelegramBotAPI==4.15.0
+python-dotenv==1.0.1
+pandas==2.2.0
+yfinance==0.2.36
